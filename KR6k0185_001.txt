@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:46:03.015848
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:44
 #+TITLE: 中天竺舍衛國祇洹寺圖經
 #+PROPERTY: CBETA_ID T45n1899
 #+PROPERTY: ID KR6k0185
@@ -12,7 +12,7 @@
 ¶
 No.1899¶
 
-祇洹圖經序
+* 祇洹圖經序
 :PROPERTIES:
 :head: 祇洹圖經序
 :END:
@@ -57,7 +57,7 @@ No.1899¶
 ¶
 ¶
 
-中天竺舍衛國祇洹寺圖經序
+* 中天竺舍衛國祇洹寺圖經序
 :PROPERTIES:
 :head: 中天竺舍衛國祇洹寺圖經序
 :END:

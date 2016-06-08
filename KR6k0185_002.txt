@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:46:03.047677
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:44
 #+TITLE: 中天竺舍衛國祇洹寺圖經
 #+PROPERTY: CBETA_ID T45n1899
 #+PROPERTY: ID KR6k0185
@@ -631,7 +631,7 @@
 已上智證大師御記¶
 ¶
 
-祇洹圖經跋
+* 祇洹圖經跋
 :PROPERTIES:
 :head: 祇洹圖經跋
 :END:
